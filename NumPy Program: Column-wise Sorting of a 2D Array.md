@@ -20,7 +20,8 @@ print()
 print(np.sort(arr,axis=0))
 ```
 ## Output
-![Uploading image.png…]()
+<img width="609" height="256" alt="image" src="https://github.com/user-attachments/assets/3cb0fc92-ab67-4162-a1c2-3e60ba91e582" />
+
 
 ## Result
 Thus the Progam executed successfully.
